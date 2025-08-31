@@ -1,0 +1,8 @@
+AddSong(A, 2, True)
+AddSong(B, 3, True)
+AddSong(C, 4, False)
+AddSong(D, 5, True)
+PrintPlaylist()
+DeleteSong(B)
+PrintReversedPlaylist()
+CreateSmartPlaylist(7)

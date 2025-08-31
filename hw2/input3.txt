@@ -1,0 +1,6 @@
+PrintPlaylist()
+AddSong(A, 3, False)
+AddSong(B, 5, False)
+AddSong(C, 2, False)
+PrintPlaylist()
+CreateSmartPlaylist(7)
